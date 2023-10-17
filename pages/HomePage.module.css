@@ -1,0 +1,13 @@
+.headerContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.headerTitle {
+    flex: 1;
+}
+
+.headerDropdown {
+    margin-right: 20px;
+}
